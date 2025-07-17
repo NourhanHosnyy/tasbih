@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url("indra-projects-Dby_80zzmNc-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px; 
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.9rem;
+    padding-block: 1px;
+    width:auto;
+    font-family: 'Playfair Display', serif;
+
+}
+body h1,h2,P{
+    color:#004030
+}
+#increment-btn{
+    border: none;
+    padding-block: 10px;
+    color:white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: #4A9782;
+}
+#save-btn{
+    border: none;
+    padding-block: 10px;
+    color:white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: rgb(2, 58, 11);
+}
